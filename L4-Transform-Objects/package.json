@@ -1,0 +1,16 @@
+{
+  "name": "lesson-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "Nick Rabone",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "three": "^0.166.1",
+    "vite": "^5.3.3"
+  }
+}
